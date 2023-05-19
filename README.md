@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @alexhambley
-- 👨🏻‍🎓 I'm an HCI and AI PhD Researcher at The University of Manchester
-- 👀 I’m interested in Machine Learning and Software Engineering. 
-- 🌱 I’m currently learning Swift, more ML tecnniques (and the piano!)
-- 📫 You can reach me on Twitter (@alexhambley1) and LinkedIn (/in/alexanderhambley). 
 - 🕸 My website is: http://alexhambley.github.io
+- 👨🏻‍💻 I am a Software Engineer for the University of Leeds...
+- 👨🏻‍🏫 ... an an Associate Lecturer for the Open University. 
+- 🔬 I am also a PhD researcher at the University of Manchester. 
+- 👨🏻‍🎓 My research is in Human-Centered AI, looking at how AI can support people... 
+- 🦮 ...This is primarily in the context of web accessibility. 
+- 📫 You can also reach me on Twitter (@alexhambley1) and LinkedIn (/in/alexanderhambley). 
 
 <!---
 alexhambley/alexhambley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
