@@ -3,8 +3,7 @@
 - 👨🏻‍💻 I am a Software Engineer for the University of Leeds...
 - 👨🏻‍🏫 ... and an Associate Lecturer for the Open University. 
 - 🔬 I am also a PhD researcher at the University of Manchester. 
-- 👨🏻‍🎓 My research is in Human-Centered AI, looking at how AI can support people... 
-- 🦮 ... This is primarily in the context of web accessibility. 
+- 👨🏻‍🎓 My research is in Human-Centered AI, looking at how AI can support people. This is primarily in the context of web accessibility. 
 - 📫 You can also reach me on Twitter (@alexhambley1) and LinkedIn (/in/alexanderhambley). 
 
 <!---
